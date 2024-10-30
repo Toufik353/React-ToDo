@@ -37,7 +37,7 @@ Run the Application:
 npm run dev
 
 Open Your Browser and visit:
-http://localhost:3000
+http://localhost:5175
 
  Usage:
 Using the To-Do List app is straightforward:
