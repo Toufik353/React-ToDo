@@ -27,12 +27,15 @@ Navigate to the Project Directory:
 
 
 cd my-todo-app
+
 Install Dependencies:
 
 npm install
+
 Run the Application:
 
 npm run dev
+
 Open Your Browser and visit:
 http://localhost:3000
 
